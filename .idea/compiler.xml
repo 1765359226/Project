@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="fastdfs_client" />
+        <module name="itcast-httpclient" />
+        <module name="pagehelper" />
+        <module name="taotao-cart-web" />
+        <module name="taotao-common" />
+        <module name="taotao-content-interface" />
+        <module name="taotao-content-service" />
+        <module name="taotao-manager-dao" />
+        <module name="taotao-manager-interface" />
+        <module name="taotao-manager-pojo" />
+        <module name="taotao-manager-service" />
+        <module name="taotao-manager-web" />
+        <module name="taotao-order-interface" />
+        <module name="taotao-order-service" />
+        <module name="taotao-order-web" />
+        <module name="taotao-portal-web" />
+        <module name="taotao-search-interface" />
+        <module name="taotao-search-sevice" />
+        <module name="taotao-search-web" />
+        <module name="taotao-sso-interface" />
+        <module name="taotao-sso-service" />
+        <module name="taotao-sso-web" />
+        <module name="tatao-item-web" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="maven-archiver (1)" target="1.5" />
+      <module name="maven-archiver (2)" target="1.5" />
+      <module name="maven-archiver (3)" target="1.5" />
+      <module name="maven-archiver (4)" target="1.5" />
+      <module name="maven-archiver (5)" target="1.5" />
+      <module name="taotao-item-web" target="1.7" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
